@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\views\\shared\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|d:\\l\u1EADp tr\u00ECnh wed\\bai_tap_thuc_hanh\\bai_tap_thuc_hanh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717E5B01-2187-4436-9C05-02BF8EC53007}|Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh.csproj|solutionrelative:bai_tap_thuc_hanh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\Program.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Program.cs",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:57:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:55:37.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\Models\\Product.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Models\\Product.cs",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:55:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:55:34.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T10:54:27.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T10:50:50.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Views\\Shared\\_Category.cshtml",
+              "RelativeDocumentMoniker": "Bai_tap_thuc_hanh\\Views\\Shared\\_Category.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh wed\\Bai_tap_thuc_hanh\\Bai_tap_thuc_hanh\\Views\\Shared\\_Category.cshtml",
+              "RelativeToolTip": "Bai_tap_thuc_hanh\\Views\\Shared\\_Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T10:50:06.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
