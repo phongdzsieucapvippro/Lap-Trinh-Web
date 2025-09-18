@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Day04Layout",
+    "\\Day04Layout\\Controllers",
+    "\\Day04Layout\\Properties",
+    "\\Day04Layout\\Views",
+    "\\Day04Layout\\Views\\Home",
+    "\\Day04Layout\\Views\\Shared",
+    "\\Day04Layout\\wwwroot"
+  ],
+  "SelectedNode": "\\Day04Layout\\Views\\Shared\\_Sidebar.cshtml",
+  "PreviewInSolutionExplorer": false
+}

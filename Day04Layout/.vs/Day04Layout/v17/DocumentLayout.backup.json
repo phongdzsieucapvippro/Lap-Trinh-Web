@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phong\\Downloads\\Day04Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day04Layout\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_Footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day04Layout\\Views\\Shared\\_Footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day04Layout\\Views\\Shared\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day04Layout\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day04Layout\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day04Layout\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Day04Layout\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Day04Layout\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T09:48:33.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Day04Layout\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Day04Layout\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACUBAAAAopmZmdkhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T09:48:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day04Layout\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day04Layout\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:40:15.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day04Layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day04Layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T10:40:10.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day04Layout\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day04Layout\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T10:40:00.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day04Layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Downloads\\Day04Layout\\Day04Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day04Layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T10:26:31.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
